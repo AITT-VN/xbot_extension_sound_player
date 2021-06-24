@@ -1,0 +1,13 @@
+{
+    "name": "SOUND PLAYER",
+    "description": "Mục mở rộng sử dụng các module sound player",
+    "libs": [
+    ],
+    "blocks": [
+        "definition.js"
+    ],
+    "toolbox": "toolbox.xml",
+    "languages": {
+    },
+    "poster": "poster.png"
+}
