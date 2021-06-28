@@ -1,6 +1,6 @@
 {
-    "name": "SOUND PLAYER",
-    "description": "Mục mở rộng sử dụng các module sound player",
+    "name": "Sound Player",
+    "description": "Mục mở rộng của xBot cho module Sound Player",
     "libs": [
     ],
     "blocks": [
