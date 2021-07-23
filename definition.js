@@ -19,7 +19,7 @@ Blockly.Blocks['xbot_sound_firstplay'] = {
               ["6", "5"],
             ],
           },],
-        colour: "#780779",
+        colour: "#009900",
         tooltip: "",
         helpUrl: ""
       }
@@ -59,7 +59,7 @@ Blockly.Blocks['xbot_sound_playback'] = {
         ],
         previousStatement: null,
         nextStatement: null,
-        colour: "#780779",
+        colour: "#009900",
         tooltip: "",
         helpUrl: ""
       }
@@ -119,7 +119,7 @@ Blockly.Blocks['xbot_sound_action'] = {
         ],
         previousStatement: null,
         nextStatement: null,
-        colour: "#780779",
+        colour: "#009900",
         tooltip: "",
         helpUrl: ""
       }
@@ -142,7 +142,7 @@ Blockly.Blocks['xbot_sound_vol'] = {
         ],
         previousStatement: null,
         nextStatement: null,
-        colour: "#780779",
+        colour: "#009900",
         tooltip: "",
         helpUrl: ""
       }
