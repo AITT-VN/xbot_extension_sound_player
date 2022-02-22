@@ -1,7 +1,8 @@
 {
     "name": "Sound Player",
-    "description": "Mục mở rộng của xBot cho module Sound Player",
+    "description": "Mục mở rộng của xBot cho module Sound Player JQ8400",
     "libs": [
+        "sound_player_jq8400.py"
     ],
     "blocks": [
         "definition.js"
